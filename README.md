@@ -9,3 +9,10 @@ A collection of minimal, readable reimplementations of key machine learning and 
 - 🧹 Strip away complexity to focus on fundamentals
 - 📄 Document insights, issues, and simplifications
 
+## 📚 Reproduced Papers
+
+- ✅ Curiosity-driven Exploration by Self-supervised Prediction (Pathak et al., 2017)
+
+## 🧠 How to Contribute
+
+This repo is for personal learning, but contributions, suggestions, and corrections are welcome!
